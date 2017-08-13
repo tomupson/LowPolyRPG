@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 208dd3b2ee433b646884aa110ffff864
+timeCreated: 1502403812
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Distant Galaxy Symbols
+  fontNames:
+  - SF Distant Galaxy Symbols
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

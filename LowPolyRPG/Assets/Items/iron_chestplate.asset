@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1c0ef63c3785af43999e5e8acd36694, type: 3}
+  m_Name: iron_chestplate
+  m_EditorClassIdentifier: 
+  StatAdditives:
+  - AssociatedStatName: Speed
+    BonusValue: -3
+  Slug: item_iron_chestplate
+  Icon: {fileID: 0}
+  Name: Iron Chestplate of Protection
+  Description: Provides a mediocure amount of protection. Increases protection at
+    the cost of a slightly lowered speed.
+  IsDefaultItem: 0
+  ActionName: Equip

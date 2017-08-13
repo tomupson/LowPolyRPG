@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "item_iron_helm",
+    "itemName": "Iron Helment",
+    "description": "Iron Helment grants head protection",
+    "actionName": "Equip",
+    "stats": [
+      {
+        "baseValue": 2,
+        "statName": "Protection"
+      },
+      {
+        "baseValue": -1,
+        "statName": "Speed"
+      }
+    ]
+  },
+  {
+    "objectSlug": "item_potion_healing",
+    "itemName": "Potion of Healing",
+    "description": "Potion of Healing grants a health increase of 10 points over 15 seconds",
+    "actionName": "Consume",
+    "stats": [
+      {
+        "baseValue": 1,
+        "statName": "Healing"
+      },
+      {
+        "baseValue": -3,
+        "statName": "Speed"
+      }
+    ]
+  }
+]
